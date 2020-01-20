@@ -1,0 +1,145 @@
+.header-site {
+    background-image: url(img/salao.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.btn {
+    animation: transition 6s infinite;
+}
+/*@keyframes transition {
+  from {
+      background-color: #8a2020;
+  }
+  to {
+       background-color: #effc3b;
+  }
+  to {
+      background-color: turquoise;
+  }
+}*/
+
+.auto {
+   
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    
+    animation: transition 10s infinite;
+  }
+  @keyframes transition {
+    from {
+        background-color: #70b479;
+    }
+    to {
+         background-color: #fe9c12;
+    }
+    to {
+        background-color: turquoise;
+    }
+}
+.card-group {
+    animation: transition 8s infinite;
+}
+
+.content-site {
+    background-image: url(img/restdesfoque.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(36, 36, 36);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-shadow: 7px 7px 12px rgba(5, 5, 5, 0.774);;
+}
+
+.content-site2 {
+    /*
+    background-image: url(img/restdesfoque.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    */
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card {
+
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.644);
+    border-radius: 10px;
+    
+}
+.card-img-top {
+
+    box-shadow: 1px 1px 20px rgba(22, 22, 22, 0.829);
+
+}
+
+.img-site {
+    background-image: url(img/comidas22.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #000000;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-site {
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.borda {
+    text-shadow: 1px 0px 0px rgb(255, 255, 255), 
+                 -1px 0px 0px rgb(255, 255, 255), 
+                 0px 1px 0px rgb(255, 255, 255), 
+                 0px -1px 0px rgb(255, 255, 255);
+        
+}
+
+#borda2 {
+    text-shadow: 2px 0px 0px rgb(0, 0, 0), 
+                 -2px 0px 0px rgb(0, 0, 0), 
+                 0px 2px 0px rgb(0, 0, 0), 
+                 0px -2px 0px rgb(0, 0, 0);
+    font-family: Arial;
+}
+
+#fonte {
+    font-size: 25px;
+}
+
+#menu{
+
+    position: fixed;
+    width:100%;
+    z-index: 9;
+    width: 100%;
+    margin-right: 250px;
+    background-color: rgb(8, 8, 8,0.8);
+
+}
+
+#texto-borda {
+
+    margin-left: auto 1px black;
+    margin-right: auto 1px black;
+
+}

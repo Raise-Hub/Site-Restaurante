@@ -1,0 +1,33 @@
+.topo {
+    background-image: url(img/índice.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+#menu {
+
+    position: fixed;
+    width:100%;
+    z-index: 9;
+    width: 100%;
+    margin-right: 250px;
+    background-color: rgb(8, 8, 8,0.8);
+
+}
+
+#cardápio {
+    
+    background-image: url(img/background-2068211_960_720.webp);
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.747);
+    border-radius: 10px;
+    margin-bottom: 100px;
+    height: 600px;
+        
+}
