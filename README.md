@@ -1,1 +1,3 @@
-# Site-Restaurante  https://raise-hub.github.io/Site-Restaurante/ .
+
+Criei esse Projeto com a finalidade de testar minhas habilidades, sendo que estou no 2º semestre da faculdade de Analise e Desenvolvimento de Sistemas... 
+Em conclusão teve como exito esse site apenas de uma página usando apenas HTML e CSS com Bootstrap e a biblioteca do Animated.Css# Site-Restaurante  https://raise-hub.github.io/Site-Restaurante/ .
